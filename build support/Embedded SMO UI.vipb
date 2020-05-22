@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 <VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-01 10:16:11" Modified_Date="2020-05-18 18:13:09" Creator="Joseph Albro" Comments="" ID="3db71faaf6f3b510affda4456db700ea">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_Embedded_SMO_UI</Package_File_Name>
     <Library_Version>1.1.0.3</Library_Version>
-=======
-<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-01 10:16:11" Modified_Date="2020-05-12 21:58:24" Creator="Joseph Albro" Comments="" ID="f1171fad98c45ac010b740deb7ef9518">
-  <Library_General_Settings>
-    <Package_File_Name>Levylab_lib_Embedded_SMO_UI</Package_File_Name>
-    <Library_Version>1.0.0.12</Library_Version>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -18,7 +11,7 @@
     <Package_LabVIEW_Version>16.0</Package_LabVIEW_Version>
     <Community_Edition>false</Community_Edition>
     <Package_Icon>00000CFC002900000012000000020000000D01000000000100000000000A000000080000000000240024002900000012000000020000000D00B2B2B900010000000000100000001000000002002300000000000000000023002900000012000000020000000D00FCFCFD00010000000000100000001000000002002200010001000100010022002900000012000000020000000D00B2B2B900010000000000100000001000000002000000240024002400240000002900000012000000020000000D0080808A00010000000000100000001000000002000100230023002300230001001D00000C1800000C00000200020022002200180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C00006C00006C0000CCCCFF6C0000CCCCFFCCCCFF6C00006C00006C0000CCCCFF6C00006C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C00006C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C00006C0000CCCCFF6C00006C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C00006C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF</Package_Icon>
-    <Product_Name>Embedded SMO UI</Product_Name>
+    <Product_Name>SMO.UI.Embedded</Product_Name>
     <Was_Built>true</Was_Built>
     <Target>LabVIEW</Target>
   </Library_General_Settings>
@@ -42,13 +35,7 @@
       <Copyright/>
       <Packager/>
       <URL>https://github.com/levylabpitt/Embedded-SMO</URL>
-<<<<<<< HEAD
       <Release_Notes>Added SMO Object value to UI State Change Event</Release_Notes>
-=======
-      <Release_Notes>Added license
-Added repository link
-Added dependencies</Release_Notes>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -259,7 +246,6 @@ Added dependencies</Release_Notes>
       <Apply_Short_Names_to_VI_Titles_2>false</Apply_Short_Names_to_VI_Titles_2>
       <Library_or_Class_Nmae/>
     </Palette_Sets>
-<<<<<<< HEAD
     <Palette_Sets>
       <Palette_Set_Name>1.0.0.12</Palette_Set_Name>
       <Use_Custom_Category>false</Use_Custom_Category>
@@ -298,8 +284,6 @@ Added dependencies</Release_Notes>
       <Apply_Short_Names_to_VI_Titles_2>false</Apply_Short_Names_to_VI_Titles_2>
       <Library_or_Class_Nmae/>
     </Palette_Sets>
-=======
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     <Install_Requirements>
       <All_Windows>true</All_Windows>
       <Windows_7>true</Windows_7>
@@ -463,51 +447,6 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-<<<<<<< HEAD
-=======
-        <NameSub_Menu_Name>EmbeddedSMO.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\EmbeddedSMO.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.ReadyForInfo.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\EmbeddedSMO.ReadyForInfo.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.TestLauncher.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\EmbeddedSMO.TestLauncher.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <NameSub_Menu_Name>Process.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -519,11 +458,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>E6DDC403203A695EFD55AD526457762B</GUID>
-=======
-      <GUID>DA904E4647F269E9D18A24CA04D6A9C8</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -628,11 +563,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>B8AC311516D27E9D91082234AD446D48</GUID>
-=======
-      <GUID>89ABF604890E3F2426F72318746FC7F5</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -667,11 +598,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\DataAccessors\GetProcessReference.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>3404C0C69A409D059894B158AF53806B</GUID>
-=======
-      <GUID>455D9445694519297FCC9618E859AA35</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -748,11 +675,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Embed_Show.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>D10377B96F00C00602DD2A0EF62D55B3</GUID>
-=======
-      <GUID>3302A15A79008D49AA1A2FE776D5365B</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -801,11 +724,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>1A32CBC6F343009A494D53629E4B94DC</GUID>
-=======
-      <GUID>E82D554AD5C25525F1F36825DBBECFCD</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -840,11 +759,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Overrides\Get VI Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>79522BF48D34ED0FA2503A904F1652B7</GUID>
-=======
-      <GUID>2F17B415F6D901602C3B4A0FCF1F66A1</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -865,109 +780,7 @@ Added dependencies</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
       </Synchronization_Info>
-<<<<<<< HEAD
       <GUID>7C09330A30AC7C3C354FB7F0EB6EC7ED</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetName.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetName.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetPrivateEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetPrivateEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetSubPanelReference.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetSubPanelReference.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetUIState.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetUIState.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.SetSubpanelReference.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.SetSubpanelReference.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.SetUIState.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.SetUIState.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.WriteName.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.WriteName.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>88571E4F4F13512D829E74071CA6FF96</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1072,11 +885,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>5AD5151F793F0D15AD519F76609294F2</GUID>
-=======
-      <GUID>F2EDCAA1FE2DDA9723D534A88BBFCBBA</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1111,11 +920,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>F52C58FEE9D8846B5E9C9A4D2C0D0C96</GUID>
-=======
-      <GUID>B60802A94755577D82D38C0418132B77</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1167,93 +972,6 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-<<<<<<< HEAD
-=======
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.Get UI State.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.Get UI State.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetSubPanelReference.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetSubPanelReference.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetUIState.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.SetUIState.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.WriteName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.WriteName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <NameSub_Menu_Name>PublicEvents--Cluster.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1263,20 +981,6 @@ Added dependencies</Release_Notes>
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1293,11 +997,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs\UI State.ctl</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>AD5D8E0B1CC9EDA3EF2D55B4F1E328F4</GUID>
-=======
-      <GUID>D204E90A6221F78DD90BF7DE2A1CF163</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1351,65 +1051,6 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-<<<<<<< HEAD
-=======
-        <NameSub_Menu_Name>EmbeddedSMO.GetName.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetName.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetSubPanelReference.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetSubPanelReference.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.SetSubpanelReference.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.SetSubpanelReference.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.TestLauncher.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\EmbeddedSMO.TestLauncher.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <NameSub_Menu_Name>Get VI Reference.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1519,11 +1160,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>27F9AFCF331C140D0EAF31045075DCE7</GUID>
-=======
-      <GUID>2E9FC4DC4490738F77B0B6E08969F79C</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1558,11 +1195,7 @@ Added dependencies</Release_Notes>
         <Path>..\EmbeddedSMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>F3A12F2FE8F1812E173581489C22DA6D</GUID>
-=======
-      <GUID>F744655C3216C7C84CF2002768EFD21D</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1597,53 +1230,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>19F8BA30F87F9A0614803DB743ECCCD4</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.WriteName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.WriteName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>6F775A0049939B307A188D0C08930E20</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1697,65 +1284,6 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-<<<<<<< HEAD
-=======
-        <NameSub_Menu_Name>EmbeddedSMO.GetName.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetName.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetSubPanelReference.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetSubPanelReference.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.SetSubpanelReference.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.SetSubpanelReference.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.TestLauncher.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\EmbeddedSMO.TestLauncher.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <NameSub_Menu_Name>Get VI Reference.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1865,11 +1393,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>3230FA7D7B7AB0AD17B4C9368C256232</GUID>
-=======
-      <GUID>784364A42D497A2C97DBCEAC8D02D2A0</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1904,11 +1428,7 @@ Added dependencies</Release_Notes>
         <Path>..\EmbeddedSMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>FD95B625DBE70A39D53040E631130A67</GUID>
-=======
-      <GUID>53730636ED3F58615234E5C31C36CD0E</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1943,53 +1463,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>5FD9B19FC0EEF8711AE795FB2C9AE333</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.WriteName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.WriteName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>51C24374452472F3EAD44133F12EE7E1</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2113,36 +1587,18 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.ReadyForInfo.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Process.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>2</Row>
-          <Column>4</Column>
+          <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\lvsrc\EmbeddedSMO.ReadyForInfo.vi</Path>
+        <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>A614467644F67901657A60B8ACE61D3E</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Process.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Process.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>DB97336B0E81E111065C89F443A32084</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2205,11 +1661,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>BAF156D78B8CC298CC82AF8D9EC0D446</GUID>
-=======
-      <GUID>19A86C95B0F83BFEBD30819478036A76</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2230,11 +1682,7 @@ Added dependencies</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>DataAccessors</Synchronize_Directory_Path>
       </Synchronization_Info>
-<<<<<<< HEAD
       <GUID>86C55C19C84A715ED92B63C13DA96E98</GUID>
-=======
-      <GUID>809C07DD61997D76C1638206C92F63F3</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2283,11 +1731,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Embed_Hide.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>8EB9F566D1F218FD23420AE0DC1BE151</GUID>
-=======
-      <GUID>BD3E5CA36F2FE8F42B71473F65D68F7A</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2322,11 +1766,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>113353464DEABB182828A359CF562735</GUID>
-=======
-      <GUID>E0648D2F34ED10CEF52708736427CE82</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2347,11 +1787,7 @@ Added dependencies</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Overrides</Synchronize_Directory_Path>
       </Synchronization_Info>
-<<<<<<< HEAD
       <GUID>1794951CC4521F5F1837324714434A29</GUID>
-=======
-      <GUID>BC618832864398CF5EA09B8285B55410</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2372,53 +1808,7 @@ Added dependencies</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
       </Synchronization_Info>
-<<<<<<< HEAD
       <GUID>F585097577EE48A1B62BD3743D5C6F4E</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetPrivateEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetPrivateEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetUIState.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetUIState.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.SetUIState.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.SetUIState.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>B5E41B1591DD92E87788171E5B542BD8</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -2481,11 +1871,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>682C50C286A5516B5EE750316CD62F2D</GUID>
-=======
-      <GUID>32CD92D650813127E1B87C17856F2E75</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -2520,11 +1906,7 @@ Added dependencies</Release_Notes>
         <Path>..\EmbeddedSMO\Embedded-SMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>A38445FB09736DA4CEC98B1E15BEF2DB</GUID>
-=======
-      <GUID>B98C7E9E2056B74456B80506855715D4</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2559,67 +1941,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>974D71C7430EBE7EBF410D7708ABF86E</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.WriteName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.WriteName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>84F3B52AB80C4A7EDEBE7ABD654E9E56</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2743,20 +2065,6 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.ReadyForInfo.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\EmbeddedSMO.ReadyForInfo.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Process.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2768,11 +2076,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>F449625F74DC355C48880EF7A78E71BC</GUID>
-=======
-      <GUID>170B919AF56F5844345DF20A32E4A501</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2835,11 +2139,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>EE9062BD1C01008FCA7B1927BCDE143F</GUID>
-=======
-      <GUID>E094A15A733CC791F4B987A78A253359</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2860,11 +2160,7 @@ Added dependencies</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>DataAccessors</Synchronize_Directory_Path>
       </Synchronization_Info>
-<<<<<<< HEAD
       <GUID>4AE552ADDE366A3E1920E75ED1909E44</GUID>
-=======
-      <GUID>363DC1E6B577F0066D66A58FFE2894E7</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2913,11 +2209,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Embed_Hide.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>B9D5AA7A16A7D21C56B8720149CDA7F1</GUID>
-=======
-      <GUID>BC4CA2C21A11C525FFEEFBA99D4B90DA</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2952,11 +2244,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>D4B1F13D70D31A92C091132E66C75671</GUID>
-=======
-      <GUID>0B8CBAC8C193F63E6E2494E3BA20505F</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2977,11 +2265,7 @@ Added dependencies</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Overrides</Synchronize_Directory_Path>
       </Synchronization_Info>
-<<<<<<< HEAD
       <GUID>6B95B384BF677195B6CB1C02A3F0869F</GUID>
-=======
-      <GUID>7EDD9CABF712E4FBB19F4C23AF3F8EE9</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3002,53 +2286,7 @@ Added dependencies</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
       </Synchronization_Info>
-<<<<<<< HEAD
       <GUID>1D975CA0B6E224599D4DEBAE885AA106</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetPrivateEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetPrivateEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetUIState.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.GetUIState.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.SetUIState.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\EmbeddedSMO.SetUIState.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>7C2E913FC0E23F1446A2C9371CC8DC82</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3111,11 +2349,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>8CC9C7DF41D81E361C6D559C060AFE7C</GUID>
-=======
-      <GUID>683F805700F8D634987CAB66E47549D2</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -3150,11 +2384,7 @@ Added dependencies</Release_Notes>
         <Path>..\EmbeddedSMO\Embedded-SMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>4C8F8C52CCABB28B297CA8742497B401</GUID>
-=======
-      <GUID>29B968248E5E809AF86433BB67B75A9A</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3189,67 +2419,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>B7F1FABD94A97916501942C765399247</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.WriteName.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.WriteName.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>9907FDE11D08A15FBCB8BB135B46EE55</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -3286,25 +2456,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>DA561EB18B58D2677CA1B9632F4BEF36</GUID>
-=======
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>EmbeddedSMO.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\EmbeddedSMO.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>34076BF8A7FDC1FCACF300803BB31F11</GUID>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3367,7 +2519,6 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Embed_Show.vi</Path>
         <VI_Title/>
       </Items_Data>
-<<<<<<< HEAD
       <GUID>07F0692DCE967FF9521339F20E773C29</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
@@ -5251,9 +4402,4 @@ Added dependencies</Release_Notes>
       <GUID>C180954DF94F3458F2B732685D6FFCEF</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
-=======
-      <GUID>53620146BB4FDCB98B407DB83CD2443D</GUID>
-    </Functions_Palette_Data>
-  </Library_Palette_Definition>
->>>>>>> parent of 59c5bb5... Changed Build File Package Name
 </VI_Package_Builder_Settings>
