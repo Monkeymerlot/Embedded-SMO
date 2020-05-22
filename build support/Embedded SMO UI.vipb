@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-01 10:16:11" Modified_Date="2020-05-18 18:13:09" Creator="Joseph Albro" Comments="" ID="3db71faaf6f3b510affda4456db700ea">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-01 10:16:11" Modified_Date="2020-05-18 17:20:51" Creator="Joseph Albro" Comments="" ID="7ea667b8b1b36994379dbe67e922b0ed">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_Embedded_SMO_UI</Package_File_Name>
-    <Library_Version>1.1.0.3</Library_Version>
+    <Library_Version>1.1.0.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -35,7 +35,7 @@
       <Copyright/>
       <Packager/>
       <URL>https://github.com/levylabpitt/Embedded-SMO</URL>
-      <Release_Notes>Added SMO Object value to UI State Change Event</Release_Notes>
+      <Release_Notes>Added Public Event on State Change</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -271,12 +271,12 @@
       <Custom_Category_Name/>
       <Custom_Category_Icon>000004B0002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000022C000001F8000000040007001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Custom_Category_Icon>
       <Controls_Palette_Information>
-        <Virtual_Palette_Base_Path>Controls</Virtual_Palette_Base_Path>
+        <Virtual_Palette_Base_Path/>
         <Palette_Disk_Base_Path>&lt;menus&gt;\Controls</Palette_Disk_Base_Path>
         <Syncing_MNU_file/>
       </Controls_Palette_Information>
       <Functions_Palette_Information>
-        <Virtual_Palette_Base_Path>Functions</Virtual_Palette_Base_Path>
+        <Virtual_Palette_Base_Path/>
         <Palette_Disk_Base_Path>&lt;menus&gt;\Categories</Palette_Disk_Base_Path>
         <Syncing_MNU_file/>
       </Functions_Palette_Information>
@@ -458,7 +458,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E6DDC403203A695EFD55AD526457762B</GUID>
+      <GUID>A12C5781404C642893526FE39B1564BD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -563,7 +563,7 @@
         <Path>..\lvsrc\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B8AC311516D27E9D91082234AD446D48</GUID>
+      <GUID>EFAD6D5A80DADFDCA73DA98D141915B8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -598,7 +598,7 @@
         <Path>..\lvsrc\DataAccessors\GetProcessReference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3404C0C69A409D059894B158AF53806B</GUID>
+      <GUID>9C9B1C4FAB9401C32B192EC070F08731</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -675,7 +675,7 @@
         <Path>..\lvsrc\Methods\Embed_Show.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D10377B96F00C00602DD2A0EF62D55B3</GUID>
+      <GUID>DEEE823E068E1A839FF503A3304B6C5D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -724,7 +724,7 @@
         <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1A32CBC6F343009A494D53629E4B94DC</GUID>
+      <GUID>CB1AE7F519DC6BACEE24FB44F1445B29</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -759,7 +759,7 @@
         <Path>..\lvsrc\Overrides\Get VI Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>79522BF48D34ED0FA2503A904F1652B7</GUID>
+      <GUID>01522D09D6AED50989516015B351C31C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -780,7 +780,21 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>7C09330A30AC7C3C354FB7F0EB6EC7ED</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedSMO.GetUIState.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\EmbeddedSMO.GetUIState.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>62A9BB56E592AC5FEB641525CC4FB443</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -885,7 +899,7 @@
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5AD5151F793F0D15AD519F76609294F2</GUID>
+      <GUID>E5BD22574935EC1D1EC76A03F5B8C4D8</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -920,7 +934,7 @@
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F52C58FEE9D8846B5E9C9A4D2C0D0C96</GUID>
+      <GUID>DA9B59BBE67CA6C7EA27FF7DE7E1E5FF</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -972,6 +986,20 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PublicEvents--Cluster.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -997,7 +1025,7 @@
         <Path>..\lvsrc\Typedefs\UI State.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AD5D8E0B1CC9EDA3EF2D55B4F1E328F4</GUID>
+      <GUID>8AB9ADD488E386E33D7E0D278DA49264</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1046,6 +1074,20 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Methods\Embed_Hide.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedSMO.TestLauncher.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\EmbeddedSMO.TestLauncher.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1160,7 +1202,7 @@
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>27F9AFCF331C140D0EAF31045075DCE7</GUID>
+      <GUID>BE0BD1A962A53211DDCFFB27DA704330</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1195,7 +1237,7 @@
         <Path>..\EmbeddedSMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F3A12F2FE8F1812E173581489C22DA6D</GUID>
+      <GUID>FFCEC362937F97E55B32BA5231B19749</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1230,7 +1272,7 @@
         <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>19F8BA30F87F9A0614803DB743ECCCD4</GUID>
+      <GUID>FEF2B55121DDAC8C0577B3D7B78BB143</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1279,6 +1321,20 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Methods\Embed_Hide.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedSMO.TestLauncher.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\EmbeddedSMO.TestLauncher.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1393,7 +1449,7 @@
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3230FA7D7B7AB0AD17B4C9368C256232</GUID>
+      <GUID>75C78C63AE456BAA58FD43E944274F80</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1428,7 +1484,7 @@
         <Path>..\EmbeddedSMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FD95B625DBE70A39D53040E631130A67</GUID>
+      <GUID>6AA6420ABED8620394F9850A45333175</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1463,7 +1519,7 @@
         <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5FD9B19FC0EEF8711AE795FB2C9AE333</GUID>
+      <GUID>9B8E7CCB39F3A0E3A8AAC74651786CD7</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1598,7 +1654,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A614467644F67901657A60B8ACE61D3E</GUID>
+      <GUID>D78BB1C9EF00A3F59C5B925E6D4A015D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1661,7 +1717,7 @@
         <Path>..\lvsrc\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BAF156D78B8CC298CC82AF8D9EC0D446</GUID>
+      <GUID>454F449123BAB743102EDAFA285B9EE3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1682,7 +1738,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>DataAccessors</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>86C55C19C84A715ED92B63C13DA96E98</GUID>
+      <GUID>3CA18CEF14ED148711CB8E9CA8885BE1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1731,7 +1787,7 @@
         <Path>..\lvsrc\Methods\Embed_Hide.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8EB9F566D1F218FD23420AE0DC1BE151</GUID>
+      <GUID>79FFC820928E82CF219A1765F97D373D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1766,7 +1822,7 @@
         <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>113353464DEABB182828A359CF562735</GUID>
+      <GUID>46ECA206496FF6CBA9A9A25B98B8C08C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1787,7 +1843,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Overrides</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>1794951CC4521F5F1837324714434A29</GUID>
+      <GUID>545D8EEACB168680FDC57DB2FBCDB3D5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1808,7 +1864,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>F585097577EE48A1B62BD3743D5C6F4E</GUID>
+      <GUID>AB78C66AAF2402E02637411D1699004C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1871,7 +1927,7 @@
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>682C50C286A5516B5EE750316CD62F2D</GUID>
+      <GUID>EDC56F18619BE8879A62B8D92ADC013F</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1906,7 +1962,7 @@
         <Path>..\EmbeddedSMO\Embedded-SMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A38445FB09736DA4CEC98B1E15BEF2DB</GUID>
+      <GUID>D432BFCDE88AFE1DA81D28D073506530</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1941,7 +1997,21 @@
         <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>974D71C7430EBE7EBF410D7708ABF86E</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>4A516C48B69EC6D87435101D4153A08A</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2076,7 +2146,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F449625F74DC355C48880EF7A78E71BC</GUID>
+      <GUID>F29CEB32635960FC4C0D477AE1E47B75</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2139,7 +2209,7 @@
         <Path>..\lvsrc\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EE9062BD1C01008FCA7B1927BCDE143F</GUID>
+      <GUID>2B0135951A14F5AA8B2F9E9DAA2F1C66</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2160,7 +2230,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>DataAccessors</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>4AE552ADDE366A3E1920E75ED1909E44</GUID>
+      <GUID>3E1B4FA6C65CB654F636E7A9B3F50002</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2209,7 +2279,7 @@
         <Path>..\lvsrc\Methods\Embed_Hide.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B9D5AA7A16A7D21C56B8720149CDA7F1</GUID>
+      <GUID>B18072195AF52BE5F4D82BC77A23BCE7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2244,7 +2314,7 @@
         <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D4B1F13D70D31A92C091132E66C75671</GUID>
+      <GUID>62F687CA82476F770C38383D38BB7ACB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2265,7 +2335,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Overrides</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>6B95B384BF677195B6CB1C02A3F0869F</GUID>
+      <GUID>B9518676A43CAC9FB5851BE76F54A20A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2286,7 +2356,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>1D975CA0B6E224599D4DEBAE885AA106</GUID>
+      <GUID>29D01774AA8525B4E62EA2EFD0CBDA76</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -2349,7 +2419,7 @@
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8CC9C7DF41D81E361C6D559C060AFE7C</GUID>
+      <GUID>B7DF8E8C4F7F82F6B6E7F3ADBF72B1DC</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -2384,7 +2454,7 @@
         <Path>..\EmbeddedSMO\Embedded-SMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4C8F8C52CCABB28B297CA8742497B401</GUID>
+      <GUID>14E2F934DDEF3E553C4DDA1B4193ACEA</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2419,7 +2489,21 @@
         <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B7F1FABD94A97916501942C765399247</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>019EDCE853A4C4E796A2DE781EAAF4A5</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2456,7 +2540,7 @@
         <Path>..\lvsrc\Methods</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DA561EB18B58D2677CA1B9632F4BEF36</GUID>
+      <GUID>1E861D47B4AED91375F4E9E36487AFD4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2519,7 +2603,7 @@
         <Path>..\lvsrc\Methods\Embed_Show.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>07F0692DCE967FF9521339F20E773C29</GUID>
+      <GUID>1F09D8FDA3ACF223C2AACD373C9BC8B3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2710,7 +2794,7 @@
         <Path>..\lvsrc\SMO.UI.Embedded.TestLauncher.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>57FE259C36F7AC4F7359F3296EB7A6F4</GUID>
+      <GUID>DA51855AA7CA252DA78666597B6554FF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2815,7 +2899,7 @@
         <Path>..\lvsrc\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7F617A2E6A1BBBC5BC6F7FFEF9158AA6</GUID>
+      <GUID>003DD174074209BC74F5B19AFB23594F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2850,7 +2934,7 @@
         <Path>..\lvsrc\DataAccessors\GetProcessReference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3BD93CAC3621771A94D40EE67EFD5A2A</GUID>
+      <GUID>2159994AEF2EC44B29FB788D1167FFF0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2927,7 +3011,7 @@
         <Path>..\lvsrc\Methods\Embed_Show.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B69ACA1E0CBE80FAF29EFE3FC96BD697</GUID>
+      <GUID>CBCEDE58F378134FFBB1139603385722</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2976,7 +3060,7 @@
         <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6CA7C0A86F9D253643FE0DE55D6CA565</GUID>
+      <GUID>E94A018B1F54D87CA474F48DE4EDDD30</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3011,7 +3095,7 @@
         <Path>..\lvsrc\Overrides\Get VI Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F22220A0DD10DA2AA987ACC4E7D2F6DE</GUID>
+      <GUID>64BAAB8FEDA67A1A6A5597505ECFC954</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3130,7 +3214,7 @@
         <Path>..\lvsrc\Private\SMO.UI.Embedded.WriteName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1894ECAF13A7E751D6B1816DA123BECF</GUID>
+      <GUID>17B4A7C4259C74D0C0FDC6E8FA64D495</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3235,7 +3319,7 @@
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>05C4124DF84D18A22BEBFD7A9601948F</GUID>
+      <GUID>94831832449A0C01D83C5E09E381D6EE</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -3270,7 +3354,7 @@
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1065D383C516EC6E4621FA69DB9E8BFC</GUID>
+      <GUID>0CA651DDD2C1654612CA8C793EE56C3D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3445,7 +3529,7 @@
         <Path>..\lvsrc\Typedefs\UI State.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>709E0CD1F307417AF3F069288EE5D3DF</GUID>
+      <GUID>BCD96B2E544843881C2380E86F313B26</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -3650,7 +3734,7 @@
         <Path>..\lvsrc\SMO.UI.Embedded.UIStateChange.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6A6D88E823DF60B912DAD670884968A2</GUID>
+      <GUID>1FFB02D7D0F799A5E4FB2ECFB8831096</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3755,7 +3839,7 @@
         <Path>..\lvsrc\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1066FD1E22EF69B3933526744F480C08</GUID>
+      <GUID>BE38B1C759B2BA68547BDDC05797E656</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3790,7 +3874,7 @@
         <Path>..\lvsrc\DataAccessors\GetProcessReference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>39C700A0347C66EE95690FEBE183C848</GUID>
+      <GUID>7C1C25FCD3C39AA5DD3892C1CBD5CE69</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3867,7 +3951,7 @@
         <Path>..\lvsrc\Methods\Embed_Show.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1BE39671D4C46EC62081FA0C34F89760</GUID>
+      <GUID>AEFC4DD82C5CD32E316A8086A68B4F6F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3916,7 +4000,7 @@
         <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E4C4714AE46338C6CA530B39B03A5B18</GUID>
+      <GUID>70EDE9DE3D9BED892B3CC69EDC598A32</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3951,7 +4035,7 @@
         <Path>..\lvsrc\Overrides\Get VI Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1D42139C65A5DD1DA76B320D845DA560</GUID>
+      <GUID>890ABFAAB97050CB1421DE8262B8BD55</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4070,7 +4154,7 @@
         <Path>..\lvsrc\Private\SMO.UI.Embedded.WriteName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0D6E574DE8F9E6BF88FBE37F25B0CE02</GUID>
+      <GUID>F5ACD01066884DFD59C67F89957ACFCD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -4175,7 +4259,7 @@
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A131C2C65D03ACCF5E65DCDD350C4B28</GUID>
+      <GUID>80D9B611AD581B25FBE0ED994B9300E7</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -4210,7 +4294,7 @@
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A14E3EFADE7D0BAAA0FF51AFE1D2A8B4</GUID>
+      <GUID>DE94D7E4AE43FA5E9724C4CFA65D6B03</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4399,7 +4483,7 @@
         <Path>..\lvsrc\Typedefs\UI State.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C180954DF94F3458F2B732685D6FFCEF</GUID>
+      <GUID>4D0B9813C61ADB854F3E28435DFF3386</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
