@@ -1,9 +1,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-01 10:16:11" Modified_Date="2020-05-18 18:13:09" Creator="Joseph Albro" Comments="" ID="3db71faaf6f3b510affda4456db700ea">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_Embedded_SMO_UI</Package_File_Name>
     <Library_Version>1.1.0.3</Library_Version>
+=======
+<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-01 10:16:11" Modified_Date="2020-05-12 21:58:24" Creator="Joseph Albro" Comments="" ID="f1171fad98c45ac010b740deb7ef9518">
+  <Library_General_Settings>
+    <Package_File_Name>Levylab_lib_Embedded_SMO_UI</Package_File_Name>
+    <Library_Version>1.0.0.12</Library_Version>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 <VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-01 10:16:11" Modified_Date="2020-05-12 21:58:24" Creator="Joseph Albro" Comments="" ID="f1171fad98c45ac010b740deb7ef9518">
   <Library_General_Settings>
@@ -51,7 +58,13 @@
       <URL>https://github.com/levylabpitt/Embedded-SMO</URL>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <Release_Notes>Added SMO Object value to UI State Change Event</Release_Notes>
+=======
+      <Release_Notes>Added license
+Added repository link
+Added dependencies</Release_Notes>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <Release_Notes>Added license
 Added repository link
@@ -274,6 +287,7 @@ Added dependencies</Release_Notes>
     </Palette_Sets>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Palette_Sets>
       <Palette_Set_Name>1.0.0.12</Palette_Set_Name>
       <Use_Custom_Category>false</Use_Custom_Category>
@@ -312,6 +326,8 @@ Added dependencies</Release_Notes>
       <Apply_Short_Names_to_VI_Titles_2>false</Apply_Short_Names_to_VI_Titles_2>
       <Library_or_Class_Nmae/>
     </Palette_Sets>
+=======
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
@@ -481,7 +497,10 @@ Added dependencies</Release_Notes>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <NameSub_Menu_Name>EmbeddedSMO.GetPublicEvents.vi</NameSub_Menu_Name>
@@ -527,6 +546,9 @@ Added dependencies</Release_Notes>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
+=======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -543,7 +565,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>E6DDC403203A695EFD55AD526457762B</GUID>
+=======
+      <GUID>DA904E4647F269E9D18A24CA04D6A9C8</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>DA904E4647F269E9D18A24CA04D6A9C8</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -656,7 +682,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>B8AC311516D27E9D91082234AD446D48</GUID>
+=======
+      <GUID>89ABF604890E3F2426F72318746FC7F5</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>89ABF604890E3F2426F72318746FC7F5</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -699,7 +729,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>3404C0C69A409D059894B158AF53806B</GUID>
+=======
+      <GUID>455D9445694519297FCC9618E859AA35</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>455D9445694519297FCC9618E859AA35</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -784,7 +818,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>D10377B96F00C00602DD2A0EF62D55B3</GUID>
+=======
+      <GUID>3302A15A79008D49AA1A2FE776D5365B</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>3302A15A79008D49AA1A2FE776D5365B</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -841,7 +879,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>1A32CBC6F343009A494D53629E4B94DC</GUID>
+=======
+      <GUID>E82D554AD5C25525F1F36825DBBECFCD</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>E82D554AD5C25525F1F36825DBBECFCD</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -884,7 +926,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>79522BF48D34ED0FA2503A904F1652B7</GUID>
+=======
+      <GUID>2F17B415F6D901602C3B4A0FCF1F66A1</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>2F17B415F6D901602C3B4A0FCF1F66A1</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -914,6 +960,20 @@ Added dependencies</Release_Notes>
 <<<<<<< HEAD
       <GUID>7C09330A30AC7C3C354FB7F0EB6EC7ED</GUID>
 =======
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedSMO.GetName.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\EmbeddedSMO.GetName.vi</Path>
+        <VI_Title/>
+      </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
@@ -1028,6 +1088,9 @@ Added dependencies</Release_Notes>
       </Items_Data>
       <GUID>88571E4F4F13512D829E74071CA6FF96</GUID>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
+=======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -1137,7 +1200,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>5AD5151F793F0D15AD519F76609294F2</GUID>
+=======
+      <GUID>F2EDCAA1FE2DDA9723D534A88BBFCBBA</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>F2EDCAA1FE2DDA9723D534A88BBFCBBA</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -1180,7 +1247,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>F52C58FEE9D8846B5E9C9A4D2C0D0C96</GUID>
+=======
+      <GUID>B60802A94755577D82D38C0418132B77</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>B60802A94755577D82D38C0418132B77</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -1240,7 +1311,10 @@ Added dependencies</Release_Notes>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.Get UI State.ctl</NameSub_Menu_Name>
@@ -1369,7 +1443,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>AD5D8E0B1CC9EDA3EF2D55B4F1E328F4</GUID>
+=======
+      <GUID>D204E90A6221F78DD90BF7DE2A1CF163</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>D204E90A6221F78DD90BF7DE2A1CF163</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -1431,7 +1509,10 @@ Added dependencies</Release_Notes>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <NameSub_Menu_Name>EmbeddedSMO.GetName.vi</NameSub_Menu_Name>
@@ -1602,7 +1683,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>27F9AFCF331C140D0EAF31045075DCE7</GUID>
+=======
+      <GUID>2E9FC4DC4490738F77B0B6E08969F79C</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>2E9FC4DC4490738F77B0B6E08969F79C</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -1645,7 +1730,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>F3A12F2FE8F1812E173581489C22DA6D</GUID>
+=======
+      <GUID>F744655C3216C7C84CF2002768EFD21D</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>F744655C3216C7C84CF2002768EFD21D</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -1720,6 +1809,20 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1747,6 +1850,9 @@ Added dependencies</Release_Notes>
       </Items_Data>
       <GUID>6F775A0049939B307A188D0C08930E20</GUID>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
+=======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -1805,7 +1911,10 @@ Added dependencies</Release_Notes>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <NameSub_Menu_Name>EmbeddedSMO.GetName.vi</NameSub_Menu_Name>
@@ -1976,7 +2085,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>3230FA7D7B7AB0AD17B4C9368C256232</GUID>
+=======
+      <GUID>784364A42D497A2C97DBCEAC8D02D2A0</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>784364A42D497A2C97DBCEAC8D02D2A0</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2019,7 +2132,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>FD95B625DBE70A39D53040E631130A67</GUID>
+=======
+      <GUID>53730636ED3F58615234E5C31C36CD0E</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>53730636ED3F58615234E5C31C36CD0E</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2067,6 +2184,23 @@ Added dependencies</Release_Notes>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
+<<<<<<< HEAD
+=======
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -2121,6 +2255,9 @@ Added dependencies</Release_Notes>
       </Items_Data>
       <GUID>51C24374452472F3EAD44133F12EE7E1</GUID>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
+=======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2248,6 +2385,7 @@ Added dependencies</Release_Notes>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>EmbeddedSMO.ReadyForInfo.vi</NameSub_Menu_Name>
+<<<<<<< HEAD
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -2273,6 +2411,26 @@ Added dependencies</Release_Notes>
           <Column>6</Column>
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\EmbeddedSMO.ReadyForInfo.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+<<<<<<< HEAD
+      <GUID>DB97336B0E81E111065C89F443A32084</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
+=======
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Process.vi</NameSub_Menu_Name>
+=======
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\EmbeddedSMO.ReadyForInfo.vi</Path>
@@ -2362,7 +2520,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>BAF156D78B8CC298CC82AF8D9EC0D446</GUID>
+=======
+      <GUID>19A86C95B0F83BFEBD30819478036A76</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>19A86C95B0F83BFEBD30819478036A76</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2391,7 +2553,11 @@ Added dependencies</Release_Notes>
       </Synchronization_Info>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>86C55C19C84A715ED92B63C13DA96E98</GUID>
+=======
+      <GUID>809C07DD61997D76C1638206C92F63F3</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>809C07DD61997D76C1638206C92F63F3</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2448,7 +2614,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>8EB9F566D1F218FD23420AE0DC1BE151</GUID>
+=======
+      <GUID>BD3E5CA36F2FE8F42B71473F65D68F7A</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>BD3E5CA36F2FE8F42B71473F65D68F7A</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2491,7 +2661,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>113353464DEABB182828A359CF562735</GUID>
+=======
+      <GUID>E0648D2F34ED10CEF52708736427CE82</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>E0648D2F34ED10CEF52708736427CE82</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2520,7 +2694,11 @@ Added dependencies</Release_Notes>
       </Synchronization_Info>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>1794951CC4521F5F1837324714434A29</GUID>
+=======
+      <GUID>BC618832864398CF5EA09B8285B55410</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>BC618832864398CF5EA09B8285B55410</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2581,6 +2759,20 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedSMO.GetPrivateEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\EmbeddedSMO.GetPrivateEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>EmbeddedSMO.GetUIState.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2608,6 +2800,9 @@ Added dependencies</Release_Notes>
       </Items_Data>
       <GUID>B5E41B1591DD92E87788171E5B542BD8</GUID>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
+=======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2675,7 +2870,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>682C50C286A5516B5EE750316CD62F2D</GUID>
+=======
+      <GUID>32CD92D650813127E1B87C17856F2E75</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>32CD92D650813127E1B87C17856F2E75</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2718,7 +2917,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>A38445FB09736DA4CEC98B1E15BEF2DB</GUID>
+=======
+      <GUID>B98C7E9E2056B74456B80506855715D4</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>B98C7E9E2056B74456B80506855715D4</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2793,6 +2996,20 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2834,6 +3051,9 @@ Added dependencies</Release_Notes>
       </Items_Data>
       <GUID>84F3B52AB80C4A7EDEBE7ABD654E9E56</GUID>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
+=======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -2987,7 +3207,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>F449625F74DC355C48880EF7A78E71BC</GUID>
+=======
+      <GUID>170B919AF56F5844345DF20A32E4A501</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>170B919AF56F5844345DF20A32E4A501</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -3058,7 +3282,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>EE9062BD1C01008FCA7B1927BCDE143F</GUID>
+=======
+      <GUID>E094A15A733CC791F4B987A78A253359</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>E094A15A733CC791F4B987A78A253359</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -3087,7 +3315,11 @@ Added dependencies</Release_Notes>
       </Synchronization_Info>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>4AE552ADDE366A3E1920E75ED1909E44</GUID>
+=======
+      <GUID>363DC1E6B577F0066D66A58FFE2894E7</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>363DC1E6B577F0066D66A58FFE2894E7</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -3144,7 +3376,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>B9D5AA7A16A7D21C56B8720149CDA7F1</GUID>
+=======
+      <GUID>BC4CA2C21A11C525FFEEFBA99D4B90DA</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>BC4CA2C21A11C525FFEEFBA99D4B90DA</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -3187,7 +3423,11 @@ Added dependencies</Release_Notes>
       </Items_Data>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>D4B1F13D70D31A92C091132E66C75671</GUID>
+=======
+      <GUID>0B8CBAC8C193F63E6E2494E3BA20505F</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>0B8CBAC8C193F63E6E2494E3BA20505F</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -3216,7 +3456,11 @@ Added dependencies</Release_Notes>
       </Synchronization_Info>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <GUID>6B95B384BF677195B6CB1C02A3F0869F</GUID>
+=======
+      <GUID>7EDD9CABF712E4FBB19F4C23AF3F8EE9</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>7EDD9CABF712E4FBB19F4C23AF3F8EE9</GUID>
 >>>>>>> parent of 59c5bb5... Changed Build File Package Name
@@ -4230,7 +4474,25 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+<<<<<<< HEAD
         <NameSub_Menu_Name>SMO.UI.Embedded.SetSubpanelReference.vi</NameSub_Menu_Name>
+=======
+        <NameSub_Menu_Name>EmbeddedSMO.GetPrivateEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\EmbeddedSMO.GetPrivateEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedSMO.GetUIState.vi</NameSub_Menu_Name>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -4269,7 +4531,25 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Private\SMO.UI.Embedded.WriteName.vi</Path>
         <VI_Title/>
       </Items_Data>
+<<<<<<< HEAD
       <GUID>1894ECAF13A7E751D6B1816DA123BECF</GUID>
+=======
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedSMO.SetUIState.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\EmbeddedSMO.SetUIState.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>7C2E913FC0E23F1446A2C9371CC8DC82</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -4374,7 +4654,11 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
+<<<<<<< HEAD
       <GUID>05C4124DF84D18A22BEBFD7A9601948F</GUID>
+=======
+      <GUID>683F805700F8D634987CAB66E47549D2</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -4409,7 +4693,11 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
+<<<<<<< HEAD
       <GUID>1065D383C516EC6E4621FA69DB9E8BFC</GUID>
+=======
+      <GUID>29B968248E5E809AF86433BB67B75A9A</GUID>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4461,7 +4749,25 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+<<<<<<< HEAD
         <NameSub_Menu_Name>PrivateEvents--SMO.UI.Embedded.Get UI State.ctl</NameSub_Menu_Name>
+=======
+        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.GetName.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.GetName.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.SetSubpanelReference.ctl</NameSub_Menu_Name>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -4475,7 +4781,25 @@ Added dependencies</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+<<<<<<< HEAD
         <NameSub_Menu_Name>PrivateEvents--SMO.UI.Embedded.GetName.ctl</NameSub_Menu_Name>
+=======
+        <NameSub_Menu_Name>PrivateEvents--EmbeddedSMO.WriteName.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--EmbeddedSMO.WriteName.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PublicEvents--EmbeddedSMO.ReadyForInfo.ctl</NameSub_Menu_Name>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -4486,6 +4810,32 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs\PrivateEvents--SMO.UI.Embedded.GetName.ctl</Path>
         <VI_Title/>
       </Items_Data>
+<<<<<<< HEAD
+=======
+      <GUID>9907FDE11D08A15FBCB8BB135B46EE55</GUID>
+    </Controls_Palette_Data>
+  </Library_Palette_Definition>
+  <Library_Palette_Definition>
+    <Functions_Palette_Data>
+      <Parent_Palette_Index>-1</Parent_Palette_Index>
+      <Name>Embedded Engine</Name>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>1</Height_Row>
+        <Width_Col.>4</Width_Col.>
+      </Size>
+      <_256_Color_Icon>00000CA0002800000C9A00000400000000000020002000080000000000FFFFFF00FF80000000FFFFFFFFFFFF0000FFFFFFFFCCCC0000FFFFFFFF99990000FFFFFFFF66660000FFFFFFFF33330000FFFFFFFF00000000FFFFCCCCFFFF0000FFFFCCCCCCCC0000FFFFCCCC99990000FFFFCCCC66660000FFFFCCCC33330000FFFFCCCC00000000FFFF9999FFFF0000FFFF9999CCCC0000FFFF999999990000FFFF999966660000FFFF999933330000FFFF999900000000FFFF6666FFFF0000FFFF6666CCCC0000FFFF666699990000FFFF666666660000FFFF666633330000FFFF666600000000FFFF3333FFFF0000FFFF3333CCCC0000FFFF333399990000FFFF333366660000FFFF333333330000FFFF333300000000FFFF0000FFFF0000FFFF0000CCCC0000FFFF000099990000FFFF000066660000FFFF000033330000FFFF000000000000CCCCFFFFFFFF0000CCCCFFFFCCCC0000CCCCFFFF99990000CCCCFFFF66660000CCCCFFFF33330000CCCCFFFF00000000CCCCCCCCFFFF0000CCCCCCCCCCCC0000CCCCCCCC99990000CCCCCCCC66660000CCCCCCCC33330000CCCCCCCC00000000CCCC9999FFFF0000CCCC9999CCCC0000CCCC999999990000CCCC999966660000CCCC999933330000CCCC999900000000CCCC6666FFFF0000CCCC6666CCCC0000CCCC666699990000CCCC666666660000CCCC666633330000CCCC666600000000CCCC3333FFFF0000CCCC3333CCCC0000CCCC333399990000CCCC333366660000CCCC333333330000CCCC333300000000CCCC0000FFFF0000CCCC0000CCCC0000CCCC000099990000CCCC000066660000CCCC000033330000CCCC0000000000009999FFFFFFFF00009999FFFFCCCC00009999FFFF999900009999FFFF666600009999FFFF333300009999FFFF000000009999CCCCFFFF00009999CCCCCCCC00009999CCCC999900009999CCCC666600009999CCCC333300009999CCCC0000000099999999FFFF000099999999CCCC0000999999999999000099999999666600009999999933330000999999990000000099996666FFFF000099996666CCCC0000999966669999000099996666666600009999666633330000999966660000000099993333FFFF000099993333CCCC0000999933339999000099993333666600009999333333330000999933330000000099990000FFFF000099990000CCCC000099990000999900009999000066660000999900003333000099990000000000006666FFFFFFFF00006666FFFFCCCC00006666FFFF999900006666FFFF666600006666FFFF333300006666FFFF000000006666CCCCFFFF00006666CCCCCCCC00006666CCCC999900006666CCCC666600006666CCCC333300006666CCCC0000000066669999FFFF000066669999CCCC0000666699999999000066669999666600006666999933330000666699990000000066666666FFFF000066666666CCCC0000666666669999000066666666666600006666666633330000666666660000000066663333FFFF000066663333CCCC0000666633339999000066663333666600006666333333330000666633330000000066660000FFFF000066660000CCCC000066660000999900006666000066660000666600003333000066660000000000003333FFFFFFFF00003333FFFFCCCC00003333FFFF999900003333FFFF666600003333FFFF333300003333FFFF000000003333CCCCFFFF00003333CCCCCCCC00003333CCCC999900003333CCCC666600003333CCCC333300003333CCCC0000000033339999FFFF000033339999CCCC0000333399999999000033339999666600003333999933330000333399990000000033336666FFFF000033336666CCCC0000333366669999000033336666666600003333666633330000333366660000000033333333FFFF000033333333CCCC0000333333339999000033333333666600003333333333330000333333330000000033330000FFFF000033330000CCCC000033330000999900003333000066660000333300003333000033330000000000000000FFFFFFFF00000000FFFFCCCC00000000FFFF999900000000FFFF666600000000FFFF333300000000FFFF000000000000CCCCFFFF00000000CCCCCCCC00000000CCCC999900000000CCCC666600000000CCCC333300000000CCCC0000000000009999FFFF000000009999CCCC0000000099999999000000009999666600000000999933330000000099990000000000006666FFFF000000006666CCCC0000000066669999000000006666666600000000666633330000000066660000000000003333FFFF000000003333CCCC0000000033339999000000003333666600000000333333330000000033330000000000000000FFFF000000000000CCCC0000000000009999000000000000666600000000000033330000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000EEEEEEEEEEEE0000DDDDDDDDDDDD0000BBBBBBBBBBBB0000AAAAAAAAAAAA0000888888888888000077777777777700005555555555550000444444444444000022222222222200001111111111110000000000000000C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9000000C900C9C9C900C9000000C9C9000000C9000000C9C9C9C9C9C9C9C9C9C900C9C9C90000C90000C900C9C900C900C9C9C900C9C900C9C9C9C9C9C9C9C9C90000C9C900C900C900C9000000C9C90000C9C900C9C900C9C9C9C9C9C9C9C9C900C9C9C900C9C9C900C900C9C900C900C9C9C900C9C900C9C9C9C9C9C9C9C9C9000000C900C9C9C900C9000000C9C9000000C9000000C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9FF000000000000000000000000000000000000000000000000000000000000FFFF0000000000000000000000000000000000000000002B79792B0000000000FFFF000000000000000000000000000000000000002B79794E0079792B000000FFFF00000000000000000000000000000000002B7979780055F6000000792B00FFFF0000000000000000000000000000000000A3780000002A2A00000078D500FFFF0000000000000000000000000000000000C6A278000055550078D4D4D500FFFF0000000000000000000000000000000000C600C6A2A25555D4D4D500D500FFFF0000000000000000000000000000000000C6000000A2A2D4D4000000D500FFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFF00C60000F64EA2D44EF60000D500FFFF0000FFC0C0C0C0C0C0C0C0C0C0C0C0FF00C6002A55F6A2D4F6554F00D500FFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFF00C6552A0000A2D400002B55D500FFFF0000FFF6F6F6F6F6F6F6F6F6F6F6F6FF00A3A2000000A8D5000000D5AB00FFFF0000FFF6F6F6F6F6F6F6F6F6F6F6F6FF002BA3A30000A2D50000ABABF800FFFF0000FFF6F6FAFAFAFFF6FAFAFAFFF6FF0000002BA4A4A3D4ABABF8000000FFFF0000FFF6F6FAF6F6FFF6FAF6F6FFF6FF00000000002BA4ABF80000000000FFFF0000FFF6F6FFFFFFFFF6FFFFFFFFF6FF0000000000000000000000000000FFFF0000FFF6F6F6F6F6F6F6F6F6F6F6F6FF0000000000000000000000000000FFFF0000FFF6F6F6F6F6F6F6FAFAFAFFF6FF0000000000000000000000000000FFFF0000FFF6F6F6F6F6F6F6FAF6F6FFF6FF0000000000000000000000000000FFFF0000FFF6F6F6F6F6F6F6FFFFFFFFF6FF0000000000000000000000000000FFFF0000FFF6F6F6F6F6F6F6F6F6F6F6F6FF0000000000000000000000000000FFFF0000FFF6F6F6F6F6F6F6F6F6F6F6F6FF0000000000000000000000000000FFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>.</Synchronize_Directory_Path>
+      </Synchronization_Info>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
@@ -4500,6 +4850,44 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs\PrivateEvents--SMO.UI.Embedded.GetSubPanelReference.ctl</Path>
         <VI_Title/>
       </Items_Data>
+<<<<<<< HEAD
+=======
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedSMO.GetPublicEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\EmbeddedSMO.GetPublicEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>34076BF8A7FDC1FCACF300803BB31F11</GUID>
+    </Functions_Palette_Data>
+    <Functions_Palette_Data>
+      <Parent_Palette_Index>0</Parent_Palette_Index>
+      <Name>Methods</Name>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>1</Height_Row>
+        <Width_Col.>4</Width_Col.>
+      </Size>
+      <_256_Color_Icon>000004DA002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000025600000222000000030007001D00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000003FA090043FE4D88CFFAE9555BFA895547FA6548DBF0000003F002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>Methods</Synchronize_Directory_Path>
+      </Synchronization_Info>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
@@ -4570,6 +4958,7 @@ Added dependencies</Release_Notes>
         <Path>..\lvsrc\Typedefs\PublicEvents--SMO.UI.Embedded.ReadyForInfo.ctl</Path>
         <VI_Title/>
       </Items_Data>
+<<<<<<< HEAD
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
@@ -5541,6 +5930,11 @@ Added dependencies</Release_Notes>
       <GUID>C180954DF94F3458F2B732685D6FFCEF</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
+=======
+      <GUID>53620146BB4FDCB98B407DB83CD2443D</GUID>
+    </Functions_Palette_Data>
+  </Library_Palette_Definition>
+>>>>>>> parent of 59c5bb5... Changed Build File Package Name
 =======
       <GUID>53620146BB4FDCB98B407DB83CD2443D</GUID>
     </Functions_Palette_Data>
