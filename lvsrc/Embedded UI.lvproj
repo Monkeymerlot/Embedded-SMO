@@ -3,6 +3,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -14,9 +15,16 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="build support" Type="Folder">
 			<Item Name="Embedded UI.vipb" Type="Document" URL="../../build support/Embedded UI.vipb"/>
+<<<<<<< HEAD:lvsrc/Embedded UI.lvproj
 		</Item>
 		<Item Name="Embedded UI.BasicTemplate.lvclass" Type="LVClass" URL="../Embedded UI.Basic Template/Embedded UI.BasicTemplate.lvclass"/>
 		<Item Name="SMO.UI.Embedded.lvclass" Type="LVClass" URL="../SMO.UI.Embedded/SMO.UI.Embedded.lvclass"/>
+=======
+			<Item Name="Embedded UI.vipc" Type="Document" URL="../../build support/Embedded UI.vipc"/>
+		</Item>
+		<Item Name="Embedded UI.lvclass" Type="LVClass" URL="../Embedded UI/Embedded UI.lvclass"/>
+		<Item Name="Embedded UI.BasicTemplate.lvclass" Type="LVClass" URL="../Embedded UI.Basic Template/Embedded UI.BasicTemplate.lvclass"/>
+>>>>>>> origin/master:lvsrc/EmbeddedSMO.lvproj
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
