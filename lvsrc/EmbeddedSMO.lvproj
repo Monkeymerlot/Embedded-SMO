@@ -12,7 +12,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="SMO.UI.Embedded.lvclass" Type="LVClass" URL="../SMO.UI.Embedded.lvclass"/>
+		<Item Name="build support" Type="Folder">
+			<Item Name="Embedded SMO UI.vipb" Type="Document" URL="../../build support/Embedded SMO UI.vipb"/>
+		</Item>
+		<Item Name="SMO.UI.Embedded.lvclass" Type="LVClass" URL="../SMO.UI.Embedded/SMO.UI.Embedded.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Add State(s) to Queue__jki_lib_state_machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_JKI_lib_State_Machine.llb/Add State(s) to Queue__jki_lib_state_machine.vi"/>
