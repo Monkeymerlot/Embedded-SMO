@@ -15,7 +15,7 @@
 		<Item Name="build support" Type="Folder">
 			<Item Name="Embedded SMO UI.vipb" Type="Document" URL="../../build support/Embedded SMO UI.vipb"/>
 		</Item>
-		<Item Name="SMO.UI.Embedded.Basic.lvclass" Type="LVClass" URL="../SMO.UI.Embedded.Template/SMO.UI.Embedded.Basic.lvclass"/>
+		<Item Name="SMO.UI.Embedded.BasicTemplate.lvclass" Type="LVClass" URL="../SMO.UI.Embedded.BasicTemplate/SMO.UI.Embedded.BasicTemplate.lvclass"/>
 		<Item Name="SMO.UI.Embedded.lvclass" Type="LVClass" URL="../SMO.UI.Embedded/SMO.UI.Embedded.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
