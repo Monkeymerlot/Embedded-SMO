@@ -15,8 +15,13 @@
 		<Item Name="build support" Type="Folder">
 			<Item Name="Embedded SMO UI.vipb" Type="Document" URL="../../build support/Embedded SMO UI.vipb"/>
 		</Item>
+		<Item Name="SMO.UI.Embedded.Basic.lvclass" Type="LVClass" URL="../SMO.UI.Embedded.Template/SMO.UI.Embedded.Basic.lvclass"/>
 		<Item Name="SMO.UI.Embedded.lvclass" Type="LVClass" URL="../SMO.UI.Embedded/SMO.UI.Embedded.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
+				<Item Name="Fit VI window to Largest Dec__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Fit VI window to Largest Dec__ogtk.vi"/>
+			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Add State(s) to Queue__jki_lib_state_machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_JKI_lib_State_Machine.llb/Add State(s) to Queue__jki_lib_state_machine.vi"/>
 				<Item Name="ArrayToCluster.vi" Type="VI" URL="/&lt;vilib&gt;/JKI/JKI SMO/Utilities/ArrayToCluster.vi"/>

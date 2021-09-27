@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-01 10:16:11" Modified_Date="2021-09-27 09:02:29" Creator="Joseph Albro" Comments="" ID="976283e73751192ffe1ee43afdb490cc">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-01 10:16:11" Modified_Date="2021-09-27 10:30:30" Creator="Joseph Albro" Comments="" ID="d3093dfbbc62c02a39cc148e16d1f52b">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_Embedded_SMO_UI</Package_File_Name>
-    <Library_Version>1.0.1.14</Library_Version>
+    <Library_Version>1.0.2.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -32,18 +32,18 @@
     <VI_Package_Configuration_File>Embedded SMO UI.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>A remake of the embedded example from JKI, using by value SMOs.</One_Line_Description_Summary>
-      <Description/>
+      <Description>A remake of the embedded example from JKI, using by value SMOs.</Description>
       <Copyright/>
-      <Packager/>
+      <Packager>Joe Albro</Packager>
       <URL>https://github.com/levylabpitt/Embedded-SMO</URL>
-      <Release_Notes>Back save to LV2019
-Rearrange some files on disk</Release_Notes>
+      <Release_Notes>- Change install location (vilib --&gt; userlib)
+- Include Embedded UI Template</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;user.lib&gt;\Levylab\Embedded UI</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -66,7 +66,7 @@ Rearrange some files on disk</Release_Notes>
       <Template_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;application&gt;\templates\JKI\JKI SMO\Embedded UI</Path>
       </Template_VIs>
       <File_Menu>
         <LLB>false</LLB>
@@ -103,6 +103,12 @@ Rearrange some files on disk</Release_Notes>
       <Destination_Overrides>
         <Path>.</Path>
         <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>SMO.UI.Embedded.Template</Path>
+        <Destination>5</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
@@ -436,7 +442,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\API\GetSubPanelRef.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BB3387BFABAAB7DF32F75E5D90CB4C27</GUID>
+      <GUID>53F7F427B4AFF1F110D3D885D195FF60</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -498,7 +504,7 @@ Rearrange some files on disk</Release_Notes>
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\lvsrc\Overrides\Get VI Reference.vi</Path>
+        <Path>..\lvsrc\SMO.UI.Embedded\Overrides\Get VI Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -599,7 +605,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8928966A3980A117DDB82BB87C221033</GUID>
+      <GUID>7895ADC679809E212270247BD9ED2802</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -634,7 +640,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\EmbeddedSMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0D556FFCE977530BEE16D61F00C3C565</GUID>
+      <GUID>7948DB1445F1CE3D2AE943A58782F972</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -669,7 +675,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9DF4F0AEB0904D26B915DF667A45BBBD</GUID>
+      <GUID>DF4B16DA37221768B090C3D46039E470</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -804,7 +810,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A35DDA9A308B60BF0D36505C7E1E1EF0</GUID>
+      <GUID>EB0D27C4E4D997F57E5783C18F925030</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -867,7 +873,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC413F945DA0B8D00D5EA0255BCE6028</GUID>
+      <GUID>A004A1B7FDF69C4C5826CAEB7EC8342A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -888,7 +894,7 @@ Rearrange some files on disk</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>DataAccessors</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>32F6F8774BE97C356AB911FFA912EF66</GUID>
+      <GUID>E6DBEF3D9B826E1C1838451854FE53F7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -937,7 +943,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods\Embed_Hide.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5F6FCACDCB54318D051005DEC01822D1</GUID>
+      <GUID>1573CF035CABB97C8432EDF5F1028D86</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -972,7 +978,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B9A364348FBF978F899F718236A22057</GUID>
+      <GUID>E7CBBFB01AB78584AEE1AC9EA51ABD60</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -993,7 +999,7 @@ Rearrange some files on disk</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Overrides</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>ADF8E4896FB932BC88F869A6577397E8</GUID>
+      <GUID>F5936030D5230563C95916977962F750</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1014,7 +1020,7 @@ Rearrange some files on disk</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>77CC19C51FB2743E44F7F6F6519890B7</GUID>
+      <GUID>5E43FB83CDEC255266E6B18DF58AC09E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1077,7 +1083,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>818DDE60399A1AFFB020B3F699275AF9</GUID>
+      <GUID>469F12F553B9D271D0598222C9B2649E</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1112,7 +1118,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\EmbeddedSMO\Embedded-SMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B13AE34BC9BD8C115EC7C64C6777CB66</GUID>
+      <GUID>E3B8AD5FFAA85701F66057CC3D71D6B9</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1147,7 +1153,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>15E7F7B38535EDFFC74A8678795358A2</GUID>
+      <GUID>0AF70927B1DB3DD22C89A72F630C09BD</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1282,7 +1288,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FDC8ECDC7079DA56D4F06AAAE6A8BFA9</GUID>
+      <GUID>E8E090A2CD9ED96798DA025E48FC3AAD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1345,7 +1351,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C29FD145E393236306C15CAFD83BADAD</GUID>
+      <GUID>AACC47A670DE58A37AAC293F1E8383AB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1366,7 +1372,7 @@ Rearrange some files on disk</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>DataAccessors</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>39B8DF9DECEF6E41368C4F23F40012B7</GUID>
+      <GUID>77BC4E8948F4FF9AF7BFEFE1212C1084</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1415,7 +1421,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods\Embed_Hide.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D16A7F46C549843F8E97DCCD7F3BD71C</GUID>
+      <GUID>1527D42975E9CCD65D00F139CCE90CC8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1450,7 +1456,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DDD643F64589EC7FECE64FAED8AB9AF6</GUID>
+      <GUID>019C223C1A47BBD7A361BCEF394ADDD7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1471,7 +1477,7 @@ Rearrange some files on disk</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Overrides</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>42E6DB2E70831AF84189D9714830D6A2</GUID>
+      <GUID>3D50DEE25F543ABC59D895C6433454F2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1492,7 +1498,7 @@ Rearrange some files on disk</Release_Notes>
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>750461D8C67AB1ACEC44E20EF14954A4</GUID>
+      <GUID>2BEFEC2625324C5116C09D13C797B880</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1555,7 +1561,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>61E3D9603E9558B9B1848EAEBE639D72</GUID>
+      <GUID>9886E08872CAE8A226271A3034692241</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1590,7 +1596,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\EmbeddedSMO\Embedded-SMO\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D96A71ABAF30C1467A19BC5F3674FB53</GUID>
+      <GUID>86BCFEA4F05F6403F40CA2B494507625</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1625,7 +1631,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Typedefs\PrivateEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E85870A527EB4E0BE2800899DB2FDBC4</GUID>
+      <GUID>676E9AD6C61E691CA9E59F8C6457D063</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1662,7 +1668,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\Methods</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0AFA961A06C1892F0C122825563AF881</GUID>
+      <GUID>5715B2DE2199C08507354047CF4A0816</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1725,7 +1731,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods\Embed_Show.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E9D9E86EA9E056AFA9535958D15DC6EF</GUID>
+      <GUID>F2D064933B8250B5D0CCAA0DE2DA291D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1916,7 +1922,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\SMO.UI.Embedded.TestLauncher.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FFB9E03B54E142D8008D8DE23286104F</GUID>
+      <GUID>CF90E3CB3504BDD9847B8A03DDE8674A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2021,7 +2027,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\API\SetUIState.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>030B4A99A17C69B473CBEAF911A70D8A</GUID>
+      <GUID>CD4839D2DF98127C154D440EB3D440C8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2056,7 +2062,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\DataAccessors\GetProcessReference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>453DDA072A03205448959B23010E06B7</GUID>
+      <GUID>0285211EA2764142C7852A4068974C37</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2133,7 +2139,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods\Embed_Show.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FDF13E8813F3921EECD96D8EE244BB64</GUID>
+      <GUID>CC091F609FC04C9B561AEF729DB69DE2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2182,7 +2188,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C25CEEF4A7A4632DEF3BA1F97AA4BE5</GUID>
+      <GUID>7CB039A4D06563C82713F07B130CB52F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2217,7 +2223,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Overrides\Get VI Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF40B104F430241BAA1138E1AA94A930</GUID>
+      <GUID>AA7B4BA4275C762B814928C16E23C9B1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2336,7 +2342,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Private\SMO.UI.Embedded.WriteName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>96A03A1CC4EF2A45BFB003CE164357CC</GUID>
+      <GUID>7E0134DC16C7A9042BC0522FF9CC89D5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -2441,7 +2447,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Methods\Accessors\Write UI State.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>58BC3D76BA2B51F7769817C3BA49500F</GUID>
+      <GUID>B07F9AFC4AD7BDA49483B9C70CCCE2EA</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -2476,7 +2482,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>33C930A50F1BB62196492A2B15BBAFA2</GUID>
+      <GUID>4011072CDCEC5BDF0019A8EB1351DD64</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2651,7 +2657,7 @@ Rearrange some files on disk</Release_Notes>
         <Path>..\lvsrc\SMO.UI.Embedded\Typedefs\UI State.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>74975165937E96A3131B8F169C5CC102</GUID>
+      <GUID>C70CBD92DFE99BBF8042D326AFC49026</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
